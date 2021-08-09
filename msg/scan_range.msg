@@ -1,0 +1,2 @@
+float64 max_dist
+float64 min_dist

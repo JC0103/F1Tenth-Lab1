@@ -1,0 +1,4 @@
+<launch>
+    <include file = "$(find f1tenth_simulator)/launch/simulator.launch" />
+    <node pkg = "chia_jing_cheng_lab1" type ="chia_jing_cheng_lab1_node" name = "lab1" output = "screen" />
+</launch>

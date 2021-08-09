@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/usr/include/**",
+        "${workspaceFolder}/include/**",
+        "/home/jcchia/chia_jing_cheng_ws/devel/.private/chia_jing_cheng_lab1/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
